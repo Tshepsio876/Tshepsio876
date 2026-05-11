@@ -90,9 +90,11 @@ I enjoy transforming raw data into meaningful insights through analytics, dashbo
 
 ### 📊 Online Retail Sales Performance Analysis
 Interactive Power BI dashboard analyzing sales trends, customer behavior, and business KPIs.
+GitHub Repository: https://lnkd.in/diJqP3jj
 
 ### 📉 Customer Retention & Churn Analysis
 Dashboard identifying churn drivers, retention opportunities, and customer lifetime trends.
+GitHub Repository: https://lnkd.in/e8GukV-K
 
 ### 🛒 Marketing Funnel & Conversion Analysis
 Funnel analysis dashboard focused on customer drop-off, conversion rates, and revenue insights.
@@ -103,7 +105,7 @@ Machine learning project predicting property prices using regression models and 
 ---
 
 ## 📫 How to reach me
-- LinkedIn: www.linkedin.com/in/tshepiso-jewel-modika
+- LinkedIn: https://www.linkedin.com/in/jewel-tshepiso-modika-639b0a3b2/
 - GitHub: https://github.com/Tshepsio876
 
 ---
